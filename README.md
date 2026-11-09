@@ -1,12 +1,10 @@
 <div align="center">
-  <!-- Заголовок с небольшим градиентом -->
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi,+I'm+Vasiliy!;Senior+Frontend+Engineer;Local-First+Advocate" alt="Typing SVG" />
   </h1>
   
   <p><b>Frontend Engineer | UI/UX Tooling | Local-First Web Apps</b></p>
 
-  <!-- Плашки с соцсетями (сделаны чуть аккуратнее) -->
   <p>
     <a href="https://github.com/p-lt?tab=repositories"><img src="https://img.shields.io/badge/REPOS-18181b?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
     <a href="https://linkedin.com/in/p-lt"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -17,7 +15,6 @@
 
 <br/>
 
-<!-- Терминальный блок с легкой рамкой -->
 ```yaml
 # ── whoami ─────────────────────────────────────────────────────────────
 name:       Vasiliy
@@ -41,3 +38,5 @@ beliefs:
   - state should be predictable and strictly typed
   - "if it takes more than 1 second to load, it's a bug"
 
+# ── fun fact ───────────────────────────────────────────────────────────
+fact: "I refactor legacy code to TypeScript just so I can sleep at night."
