@@ -41,5 +41,3 @@ beliefs:
   - state should be predictable and strictly typed
   - "if it takes more than 1 second to load, it's a bug"
 
-# ── fun fact ───────────────────────────────────────────────────────────
-fact: "Переписываю легаси на TypeScript, чтобы спать спокойно"
